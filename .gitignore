@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# OpenClaw
+.openclaw/
+*.skill
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Data
+xhs_data/
+*.json
+!package.json
+
+# Temp
+*.tmp
+*.bak
